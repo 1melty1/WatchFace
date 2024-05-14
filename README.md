@@ -1,4 +1,4 @@
 # WatchFace
 A minimalistic watch face for galaxy watch.
 
-![Uploading MinimalLatest_20240514_14485436.png…]()
+![MinimalLatest_20240514_14485436](https://github.com/1melty1/WatchFace/assets/53013464/c2e25cb6-dbc8-4074-9091-9f46f30809e8)
