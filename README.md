@@ -1,7 +1,4 @@
 # WatchFace
 A minimalistic watch face for galaxy watch.
 
-
-
-Uploading Screen Recording 2024-05-14 at 17.26.38.mov…
-
+https://github.com/1melty1/WatchFace/assets/53013464/25c9d2b0-5c20-42a4-b1c6-c43d2c505747
